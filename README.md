@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# FPInScala
-Functional Programming in Scala
+# Functional Programming in Scala
 =======
 ## Scala Functional Programming Codes
 ##### Primitive routines
@@ -41,6 +39,3 @@ Functional Programming in Scala
 * Selection Search (k-th order statistic) [`src/search/SelectionSearch.scala`](https://github.comSHSSCPG131/FPInScalasrc/search/SelectionSearch.scala)
 * Binary Search [`src/search/BinarySearch.scala`](https://github.comSHSSCPG131/FPInScalasrc/search/BinarySearch.scala)
 * Linear Search [`src/search/LinearSearch.scala`](https://github.comSHSSCPG131/FPInScalasrc/search/LinearSearch.scala)
-
-
->>>>>>> Scala Updated Code
