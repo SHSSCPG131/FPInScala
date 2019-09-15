@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+# Functional Programming in Scala
+=======
+>>>>>>> 02c5e575597deb9e8bc764effba9f2b5f6ba39e8
 ## Scala Functional Programming Codes
 ##### Primitive routines
 * Numbers theory [`src/primitive/Numbers.scala`](https://github.comSHSSCPG131/FPInScalasrc/primitive/Numbers.scala)
@@ -37,5 +42,8 @@
 * Selection Search (k-th order statistic) [`src/search/SelectionSearch.scala`](https://github.comSHSSCPG131/FPInScalasrc/search/SelectionSearch.scala)
 * Binary Search [`src/search/BinarySearch.scala`](https://github.comSHSSCPG131/FPInScalasrc/search/BinarySearch.scala)
 * Linear Search [`src/search/LinearSearch.scala`](https://github.comSHSSCPG131/FPInScalasrc/search/LinearSearch.scala)
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 02c5e575597deb9e8bc764effba9f2b5f6ba39e8
