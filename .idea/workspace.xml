@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7565cd7-4ab5-4c2c-81bb-a062181fa50c" name="Default Changelist" comment="Updated">
+      <change afterPath="$PROJECT_DIR$/src/graph/DivideandConquer.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math/Geometry.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/scalacaster-master.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scalacaster-master.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,6 +15,13 @@
   </component>
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Worksheet" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -26,7 +36,9 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1QpGX86usi58d1Hv1vzNwOT03NM" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
